@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/wave (2).svg" alt="">
+</p>
+
 <h1 align="center">Hi there 👋, I'm Matheus Monteiro!</h1>
 <h3 align="center">Junior Frontend Developer from Brazil 🇧🇷</h3>
 
