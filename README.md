@@ -21,7 +21,8 @@
 <a href="https://linkedin.com/in/monteiroshm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="monteiroshm" height="30" width="40" /></a>
 </p>
 
-
-
+<p align="center">
+  <img src="images/wave (3).svg" alt="">
+</p>
 
 
