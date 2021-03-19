@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/wave (2).svg" alt="">
-</p>
-
 <h1 align="center">Hi there 👋, I'm Matheus Monteiro!</h1>
 <h3 align="center">Junior Frontend Developer from Brazil 🇧🇷</h3>
 
@@ -18,7 +14,7 @@
 
 <h3 align="center">Find me on LinkedIn:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/monteiroshm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="monteiroshm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monteiroshm" target="blank"><img align="center" src="./images/linkedin.svg" alt="monteiroshm" height="30" width="40" /></a>
 </p>
 
 <p align="center">
