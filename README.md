@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Matheus Monteiro!</h1>
-<h3 align="center">Junior Frontend Developer from Brazil 🇧🇷</h3>
+<h3 align="center">Junior Software Developer from Brazil 🇧🇷</h3>
 
 <p align="center">
 <img src="./images/giphy.gif" alt="">
